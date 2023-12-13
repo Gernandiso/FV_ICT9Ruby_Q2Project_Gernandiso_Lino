@@ -1,0 +1,31 @@
+<DOCTYPE! html>
+    <head>
+	    <title>Q2 Project</title>
+	<link rel="stylesheet" type="text/css" href="index.Css">
+		<!--
+		<style>
+	     
+		 body {
+		  background-color:grey;
+		  font-family: Arial, sans-serif;
+		  color:green;
+		  text-align:center;
+		  background-size: 1200x1200px;
+		  background-image:url("https://www.istockphoto.com/photo/young-plants-growing-in-a-crack-on-a-concrete-footpath-conquering-adversity-concept-gm1470130937-501096142");
+		  background-repeat:no-repeat;
+		  background-position:center;
+		  background-attachment:fixed;
+		}
+		h1 {
+		   background-color:orange;
+		   color:red;
+		   text-align: center;
+		   font weight:bold;
+		}
+		p {
+		   color:blue;
+		   text-align:center;
+		}
+		</style>-->
+		</head>
+		<body>
