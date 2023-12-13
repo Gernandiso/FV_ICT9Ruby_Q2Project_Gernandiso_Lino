@@ -1,21 +1,12 @@
- body {
-		  background-color:grey;
-		  font-family: Arial, sans-serif;
-		  color:green;
-		  text-align:center;
-		  background-size: 1200x1200px;
-		  background-image:url("https://t4.ftcdn.net/jpg/01/04/78/75/240_F_104787586_63vz1PkylLEfSfZ08dqTnqJqlqdq0eXx.jpg");
-		  background-repeat:no-repeat;
-		  background-position:center;
-		  background-attachment:fixed;
-		}
+ 
+		
 		h1 {
 		   background-color:orange;
 		   color:red;
 		   text-align: center;
 		   font weight:bold;
 		}
-		p {
+		body {
 width: 300px;
 	padding: 200px;
 	border: 200px solid:#fcba03;
@@ -33,15 +24,19 @@ margin-left:auto;
 	font-family: Arial, sans-serif;
 	font-size: 25px;
 	display: block;
+background-color:grey;
+		  font-family: Arial, sans-serif;
+		  color:green;
+		  text-align:center;
+		  background-size: 1200x1200px;
+		  background-image:url("https://t4.ftcdn.net/jpg/01/04/78/75/240_F_104787586_63vz1PkylLEfSfZ08dqTnqJqlqdq0eXx.jpg");
+		  background-repeat:no-repeat;
+		  background-position:center;
+		  background-attachment:fixed;
 		}
 		
 		th, td {
 		      padding: 10px;
 			  }
-		body {
-		 background-color: white;
-		  font-family: Arial, sans-serif;
-		  color:black;
-		  text-align:center;
-		}
+		
 	
